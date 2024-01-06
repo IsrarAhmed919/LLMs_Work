@@ -51,7 +51,7 @@ Now You can ask questions about your pdf files from the bot.
 
 
 ## Demo
-![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/YouTube_icon_%282011-2013%29.svg/256px-YouTube_icon_%282011-2013%29.svg.png)](https://youtu.be/pI8_JtokgVs)
+![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/YouTube_icon_%282011-2013%29.svg/256px-YouTube_icon_%282011-2013%29.svg.png)(https://youtu.be/pI8_JtokgVs)
 
 
 
