@@ -10,7 +10,7 @@ Welcome to the LLMs Work repository! This repository is dedicated to projects re
 
 ## Projects
 
-### Project 1: [Talk to Your PDFs](link_to_project_1)
+### Project 1: [Talk to Your PDFs](https://github.com/IsrarAhmed919/LLMs_Work/tree/main/talk_to_pdfs)
 Description of Project 1.
 
 
