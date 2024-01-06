@@ -13,15 +13,6 @@ Tired of sifting through endless pages of text to find the information you need?
 - **Powered by Cutting-Edge AI:** Leverages advanced language processing and semantic search technologies to understand the context of your questions and deliver relevant responses.
 - **Handles Diverse PDF Types:** Works effectively with a wide range of PDF documents, including textbooks, research papers, business reports, contracts, and more.
 
-<!-- 
-- **Conversational Interface**: Engage in natural language conversations with your PDF documents through the provided chatbot interface.
-
-- **Document Indexing**: Utilize LangChain to index your PDF documents, enabling efficient and fast querying.
-
-- **AI-powered Responses**: Leverage OpenAI's GPT-3 model to obtain intelligent responses to your queries.
-
-- **PDF Rendering**: Ensure successful PDF rendering by installing the necessary libraries, such as poppler-utils. -->
-
 ## Installation
 
 ```bash
@@ -51,7 +42,7 @@ Now You can ask questions about your pdf files from the bot.
 
 
 ## Demo
-![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/YouTube_icon_%282011-2013%29.svg/256px-YouTube_icon_%282011-2013%29.svg.png)(https://youtu.be/pI8_JtokgVs)
+[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/YouTube_icon_%282011-2013%29.svg/256px-YouTube_icon_%282011-2013%29.svg.png)](https://youtu.be/pI8_JtokgVs)
 
 
 
