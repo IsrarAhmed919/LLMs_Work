@@ -1,6 +1,6 @@
 # Talk to Your PDFs
 
-![Image generated using Dalle 2](talk_to_pdfs/others/1.png)
+![Image generated using Dalle 2](others/1.png)
 
 
 ## Have a conversation with your PDFs. No reading required.
@@ -52,7 +52,7 @@ Now You can ask questions about your pdf files from the bot.
 
 ## Demo
 <video width="640" height="360" controls>
-  <source src="talk_to_pdfs/others/demo.mp4" type="video/mp4">
+  <source src="others/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
