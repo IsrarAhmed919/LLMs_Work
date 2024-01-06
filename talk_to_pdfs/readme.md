@@ -51,10 +51,7 @@ Now You can ask questions about your pdf files from the bot.
 
 
 ## Demo
-<video width="640" height="360" controls>
-  <source src="others/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/YouTube_icon_%282011-2013%29.svg/256px-YouTube_icon_%282011-2013%29.svg.png)](https://youtu.be/pI8_JtokgVs)
 
 
 
