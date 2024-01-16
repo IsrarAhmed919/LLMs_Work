@@ -73,8 +73,7 @@ streamlit run app.py
 ```
 
 # Demo
-Here's the demo video for it!
-
+[YouTube](https://youtu.be/ohoHygc81Xc?si=FgVaKJB32OIAZpSk)
 
 # About me
 I am Israr Ahmed, passionate about AI/DS/ML/DL. I work on tasks related to computer vision, nlp, gen ai, ml ops and also on resful apis like Flask or Fast Api.
